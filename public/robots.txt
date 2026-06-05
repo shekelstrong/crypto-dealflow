@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://crypto-dealflow.vercel.app/sitemap.xml
